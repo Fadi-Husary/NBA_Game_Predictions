@@ -16,6 +16,7 @@ The website used to scrape NBA data is [basketball-reference](https://www.basket
 4) Model Training and Testing: A Ridge Classifier model is trained on the preprocessed data, and the model's performance is tested. A backtesting method is applied, where the model trains on past seasons and makes predictions for the current season. Finally, the accuracy of the model's predictions is computed.
 
 ## Installations and Packages:
+- JupyterLab
 - Python 3.8+
 - Python packages:
      - pandas
